@@ -5,9 +5,9 @@ Roman Vovchenko, MIPT masters student, ML enjoyer.
 ### My projects
 
 - 🤖 ML: [stock prices forecasting](https://github.com/r-vvch/DMLS_2022_stocks)
-- 🔌 Research on network and traffic analisys: [video quality classifier](https://github.com/r-vvch/video_quality_classifier), [network streams graphing tool](https://github.com/r-vvch/Netplt)
-- ⚛ Frontend — own projects and Netcracker internship: [to-do list with Java & React](https://github.com/r-vvch/Netcracker_app), [to-do list with Django](https://github.com/r-vvch/Ockham), [to-do list on React](https://github.com/r-vvch/Planner)
-- 🎓 Various studies: [Python at Stepik](https://github.com/r-vvch/Stepik_Python), [SQL at MIPT](https://github.com/r-vvch/DB_course),  [JS & HTML at Coursera](https://github.com/r-vvch/Coursera_Web), [C++ at Coursera](https://github.com/r-vvch/Coursera_Cpp), [SQL & Java at Netcracker Educational Center](https://github.com/r-vvch/Netcracker_Java_SQL)
+- 🔌 Research on network and traffic analisys: [video_quality_classifier](https://github.com/r-vvch/video_quality_classifier), [Netplt](https://github.com/r-vvch/Netplt)
+- ⚛ Frontend — own projects and Netcracker internship: [to-do list with Java & React](https://github.com/r-vvch/Netcracker_app), [Ockham](https://github.com/r-vvch/Ockham), [Planner](https://github.com/r-vvch/Planner)
+- 🎓 Various studies: [Python](https://github.com/r-vvch/Stepik_Python), [MS SQL](https://github.com/r-vvch/DB_course),  [JS & HTML](https://github.com/r-vvch/Coursera_Web), [C++](https://github.com/r-vvch/Coursera_Cpp), [Oracle SQL & Java](https://github.com/r-vvch/Netcracker_Java_SQL)
 
 ### Languages
 
