@@ -1,8 +1,12 @@
 ### Hello there 👋
 
-Roman Vovchenko, MIPT masters student, DA @ X5 Tech.
+Roman Vovchenko, MIPT master
 
-### My projects
+### Work
+Worked as a data analyst, researcher, and frontend developer at X5 Tech, ISP RAS, and Netcracker Technology.  
+Now a CTO of a quantum computing startup in finance.
+
+### Projects
 
 - 🤖 ML: [stock prices forecasting](https://github.com/r-vvch/DMLS_2022_stocks)
 - 🔌 Research on network and traffic analisys: [promprog_project](https://github.com/r-vvch/promprog_project), [video_quality_classifier](https://github.com/r-vvch/video_quality_classifier), [netplt](https://github.com/r-vvch/Netplt)
