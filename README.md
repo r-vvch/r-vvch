@@ -1,17 +1,17 @@
 ### Hello there 👋
 
-Roman Vovchenko, MIPT master
+Roman Vovchenko, CTO @ Suggest Quantum, MIPT master
 
 ### Work
-Worked as a data analyst, researcher, and frontend developer at X5 Tech, ISP RAS, and Netcracker Technology.  
-Now a CTO of a quantum computing startup in finance.
+CTO of a quantum computing startup in finance.  
+Previous work experience includes data analysis, research, and frontend development at X5 Tech, ISP RAS, and Netcracker Technology.
 
 ### Projects
 
 - 🤖 ML: [stock prices forecasting](https://github.com/r-vvch/DMLS_2022_stocks)
 - 🔌 Research on network and traffic analisys: [promprog_project](https://github.com/r-vvch/promprog_project), [video_quality_classifier](https://github.com/r-vvch/video_quality_classifier), [netplt](https://github.com/r-vvch/Netplt)
 - ⚛ Frontend — own projects and Netcracker internship: [to-do list with Java & React](https://github.com/r-vvch/Netcracker_app), [Ockham](https://github.com/r-vvch/Ockham), [Planner](https://github.com/r-vvch/Planner)
-- 🎓 Various studies: [Python](https://github.com/r-vvch/Stepik_Python), [MS SQL](https://github.com/r-vvch/DB_course),  [JS & HTML](https://github.com/r-vvch/Coursera_Web), [C++](https://github.com/r-vvch/Coursera_Cpp), [Oracle SQL & Java](https://github.com/r-vvch/Netcracker_Java_SQL)
+- 🎓 Various studies: [DLS](https://github.com/r-vvch/DLS), [ML](https://github.com/r-vvch/Coursera_ML), [Python](https://github.com/r-vvch/Stepik_Python), [C++](https://github.com/r-vvch/Coursera_Cpp), [JS & HTML](https://github.com/r-vvch/Coursera_Web), [MS SQL](https://github.com/r-vvch/DB_course), [Oracle SQL & Java](https://github.com/r-vvch/Netcracker_Java_SQL)
 
 ### Languages
 
