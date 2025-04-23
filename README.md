@@ -11,7 +11,7 @@ Previous work experience includes data analysis, research, and frontend developm
 - 🤖 ML: [stock prices forecasting](https://github.com/r-vvch/DMLS_2022_stocks)
 - 🔌 Research on network and traffic analisys: [promprog_project](https://github.com/r-vvch/promprog_project), [video_quality_classifier](https://github.com/r-vvch/video_quality_classifier), [netplt](https://github.com/r-vvch/Netplt)
 - ⚛ Frontend — own projects and Netcracker internship: [to-do list with Java & React](https://github.com/r-vvch/Netcracker_app), [Ockham](https://github.com/r-vvch/Ockham), [Planner](https://github.com/r-vvch/Planner)
-- 🎓 Various studies: [DLS](https://github.com/r-vvch/DLS), [ML](https://github.com/r-vvch/Coursera_ML), [Python](https://github.com/r-vvch/Stepik_Python), [C++](https://github.com/r-vvch/Coursera_Cpp), [JS & HTML](https://github.com/r-vvch/Coursera_Web), [MS SQL](https://github.com/r-vvch/DB_course), [Oracle SQL & Java](https://github.com/r-vvch/Netcracker_Java_SQL)
+- 🎓 Various studies: [DLS](https://github.com/r-vvch/DLS), [LeetCode](https://github.com/r-vvch/LeetCode), [ML](https://github.com/r-vvch/Coursera_ML), [Python](https://github.com/r-vvch/Stepik_Python), [C++](https://github.com/r-vvch/Coursera_Cpp), [JS & HTML](https://github.com/r-vvch/Coursera_Web), [MS SQL](https://github.com/r-vvch/DB_course), [Oracle SQL & Java](https://github.com/r-vvch/Netcracker_Java_SQL)
 
 ### Languages
 
