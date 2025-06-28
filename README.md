@@ -6,6 +6,8 @@ Roman Vovchenko, Suggest Quantum CTO, MIPT master
 CTO of a quantum computing startup in finance.  
 Previously was kept busy with: data analysis @ X5 Tech, research @ ISP RAS and frontend development @ Netcracker Technology.
 
+![](img/SuggestQuantum.svg)   ![](img/X5_Tech.svg)   ![](img/ISP_RAS.svg)   ![](img/Netcracker.svg)
+
 ### Projects
 
 - 🤖 ML: [stock prices forecasting](https://github.com/r-vvch/DMLS_2022_stocks)
@@ -22,19 +24,3 @@ Previously was kept busy with: data analysis @ X5 Tech, research @ ISP RAS and f
 ![Java](https://img.shields.io/badge/Java-F8981D?&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
-
-
-<!--
-**r-vvch/r-vvch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
