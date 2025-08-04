@@ -3,7 +3,7 @@
 Roman Vovchenko, Suggest Quantum CTO, MIPT master
 
 ### Work
-CTO of a quantum computing startup in finance.  
+Analyst-developer @ Yandex, CTO of a quantum computing startup in finance.  
 Previously was kept busy with: data analysis @ X5 Tech, research @ ISP RAS and frontend development @ Netcracker Technology.
 
 <!-- ![](img/SuggestQuantum.svg)   ![](img/X5_Tech.svg)   ![](img/ISP_RAS.svg)   ![](img/Netcracker.svg) -->
